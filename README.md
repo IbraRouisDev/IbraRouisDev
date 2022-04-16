@@ -6,7 +6,7 @@
 
 ### Contributions
 
-Here are the Open Source Projects tha I have contributed to:
+Here are the Open Source Projects that I have contributed to:
 
 * [React Router](https://github.com/remix-run/react-router): [#8683](https://github.com/remix-run/react-router/pull/8683)
 * [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev): [#2334](https://github.com/nodejs/nodejs.dev/pull/2334)
